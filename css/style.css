@@ -20,6 +20,10 @@
     z-index: 2;
 }
 
+.card {
+    margin: 2px 0;
+}
+
 #typed {
     color: #d32f2f;
     font-weight: bold;
