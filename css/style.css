@@ -29,3 +29,20 @@
     font-weight: bold;
     text-transform: uppercase;
 }
+
+.contact-us__links li a {
+    text-decoration: none;
+    color:  black !important;
+}
+
+li {
+    list-style-type: none;
+}
+
+.form-group {
+    margin-top: 10px;
+}
+
+footer {
+    
+}
