@@ -44,5 +44,12 @@ li {
 }
 
 footer {
-    
+    color: white;
+    margin: 0;
+    padding: 5px 0;
+
+}
+
+.footer h5 {
+    margin: 0;
 }
